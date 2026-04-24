@@ -6,7 +6,7 @@
 
 # Gallery: How to visualize computational mechanics 
 
-Welcome to the gallery of visualizations in computational mechanics. These visualizations were created as part of the development of a series of educational video resources on computational mechanics on [YouTube](https://www.youtube.com/@DrSimulate) (Ref. 2). Below, we highlight selected example animations along with their corresponding source code, generated using the Python libraries Matplotlib and Manim, as well as the 3D animation software Blender. More detailed explanations can be found in the accompanying publication (Ref. 1). 
+Welcome to the gallery of visualizations in computational mechanics. These visualizations were created as part of the development of a series of educational video resources on computational mechanics on [YouTube](https://www.youtube.com/@DrSimulate) (Ref. 2). Below, we highlight selected example animations along with their corresponding source code, generated using the Python libraries Matplotlib and Manim, as well as the 3D animation software Blender. More detailed explanations can be found in the accompanying [publication](http://doi.org/10.1002/cae.70189) (Ref. 1). 
 
 ## Matplotlib
 
@@ -439,8 +439,4 @@ All presented animations were created using [Matplotlib](https://matplotlib.org/
 
 1. Flaschel, Moritz. *How to visualize computational mechanics: Animating finite elements, continuum mechanics, and tensor calculus*. Computer Applications in Engineering Education, 2026. DOI: [10.1002/cae.70189](http://doi.org/10.1002/cae.70189)
 
-<!-- 1. Flaschel, Moritz. *How to visualize computational mechanics: Animating finite elements, continuum mechanics, and tensor calculus*. preprint, 2026. DOI: []() -->
-
 2. Flaschel, Moritz. *Educational video resources on computational mechanics*. YouTube, 2024. URL: [https://www.youtube.com/@DrSimulate](https://www.youtube.com/@DrSimulate)
-
-<!-- 3. Flaschel, Moritz. *Software for visualizing computational mechanics*. GitHub, 2026. URL: [https://github.com/DrSimulate](https://github.com/DrSimulate) -->
